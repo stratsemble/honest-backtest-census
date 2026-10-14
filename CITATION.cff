@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "The Honest Backtest Census: How Often Famous Strategies Beat Buy & Hold"
+abstract: >-
+  An openly-licensed, aggregate snapshot of how 25 famous, named trading
+  strategies performed against buy & hold across 36 liquid US stocks & ETFs over
+  a fixed ~5-year window (frozen edition 2026-09-25). Of 839 strategy-asset
+  backtests with enough trades to judge (of 900 combinations; 61 too thin and
+  excluded), about 86% failed to beat buy & hold; ~14% beat. Net of trading
+  costs and slippage, no look-ahead, against each asset's own buy & hold.
+  Survivor-selected famous names; aggregate rates only (no per-trade records);
+  one fixed window, no out-of-sample split; not significance-tested.
+authors:
+  - name: "Stratsemble"
+version: "2026-09-25"
+date-released: "2026-09-25"
+license: CC-BY-4.0
+url: "https://stratsemble.com/methodology/census/2026-09-25"
+repository-code: "https://github.com/stratsemble/honest-backtest-census"
+doi: 10.5281/zenodo.22974116
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22974115
+    description: "Concept DOI (all editions)"
+  - type: doi
+    value: 10.5281/zenodo.22974116
+    description: "Version DOI (edition 2026-09-25)"
+keywords:
+  - backtesting
+  - trading-strategies
+  - survivorship-bias
+  - buy-and-hold
+  - open-data
+  - finance

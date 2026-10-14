@@ -1,0 +1,26 @@
+strategy_slug,strategy_name,n_eligible,n_beat,n_lagged,n_thin_excluded,pct_beat,pct_failed,median_excess_return,low_sample_flag
+200-day-ma,200-Day MA Regime,36,11,25,0,31,69,-0.2187,false
+52-week-high,52-Week High Breakout,30,2,28,6,7,93,-0.7699,false
+adx,ADX / DMI Trend,36,6,30,0,17,83,-0.8099,false
+aroon,Aroon,36,5,31,0,14,86,-0.4902,false
+awesome-oscillator,Awesome Oscillator,36,5,31,0,14,86,-0.5438,false
+bollinger-breakout,Bollinger Band Breakout,36,5,31,0,14,86,-0.6856,false
+bollinger-reversion,Bollinger Band Reversion,36,3,33,0,8,92,-0.7048,false
+cci,Commodity Channel Index,36,4,32,0,11,89,-0.6568,false
+cmf,Chaikin Money Flow,36,3,33,0,8,92,-0.7952,false
+connors-rsi2,Connors RSI-2,36,4,32,0,11,89,-0.7328,false
+donchian-breakout,Donchian Breakout,36,5,31,0,14,86,-0.5409,false
+heikin-ashi,Heikin-Ashi Trend,36,3,33,0,8,92,-0.8379,false
+ichimoku,Ichimoku Cloud,36,4,32,0,11,89,-0.6363,false
+keltner-breakout,Keltner Channel Breakout,36,6,30,0,17,83,-0.7477,false
+macd,MACD,36,5,31,0,14,86,-0.7466,false
+mfi,Money Flow Index,30,6,24,6,20,80,-0.4591,false
+momentum,Time-Series Momentum,36,9,27,0,25,75,-0.3613,false
+moving-average-crossover,Moving Average Crossover,23,2,21,13,9,91,-0.4240,false
+obv,On-Balance Volume,36,7,29,0,19,81,-0.6881,false
+parabolic-sar,Parabolic SAR,36,4,32,0,11,89,-0.8428,false
+rsi,RSI Reversion,36,5,31,0,14,86,-0.7707,false
+stoch-rsi,Stochastic RSI,36,5,31,0,14,86,-0.4671,false
+stochastic,Stochastic Oscillator,36,6,30,0,17,83,-0.6471,false
+supertrend,SuperTrend,0,0,0,36,0,0,,true
+vortex,Vortex Indicator,36,3,33,0,8,92,-0.7300,false

@@ -1,0 +1,4 @@
+asset_class,n_eligible,n_beat,n_lagged,n_thin_excluded,pct_beat,pct_failed,data_as_of,window_years,note
+stocks,839,118,721,61,14,86,2026-09-25,5,the headline figure (composition-stable)
+crypto,257,165,92,18,64,36,2026-09-24,5,"context only — a small, volatile, survivorship-biased sample; an overfitting artifact, not a demonstrated edge; not significance-tested"
+all,1096,283,813,79,26,74,2026-09-25,5,"context only — a small, volatile, survivorship-biased sample; an overfitting artifact, not a demonstrated edge; not significance-tested"
